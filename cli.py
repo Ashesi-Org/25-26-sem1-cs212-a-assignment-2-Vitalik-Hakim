@@ -17,7 +17,7 @@ def display_welcome():
     print("This is a simple file manager to demonstrate")
     print("Python fundamentals: variables, expressions,")
     print("statements, and functions.")
-    # TODO: Add a blank line after the welcome message
+    print("")
 
 
 def get_user_choice():
